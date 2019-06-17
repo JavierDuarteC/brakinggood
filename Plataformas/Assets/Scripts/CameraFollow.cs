@@ -8,6 +8,7 @@ public class CameraFollow : MonoBehaviour
     public GameObject followObject;
 
     public float offsetX;
+    public float offsetXMax;
 
     private Vector3 camPosition;
     
@@ -23,6 +24,24 @@ public class CameraFollow : MonoBehaviour
         camPosition = new Vector3(followObject.transform.position.x + offsetX,
             0f,
             -10f);
-        transform.position = camPosition;
+        
+        if (camPosition.x >= offsetXMax)
+        {
+            print(transform.position);
+            transform.position = new Vector3(offsetXMax,0f,-10f);
+            
+        }else if (camPosition.x <= offsetX)
+        {
+            print(transform.position);
+            transform.position = new Vector3(offsetX,0f,-10f);
+        }
+        else
+        {
+            transform.position = camPosition;
+        }  
+        
+        
+        
+            
     }
 }
