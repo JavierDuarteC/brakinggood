@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: abfebceeda18e3143a1fda884982f455
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2464306438850978715
+    second: carro_0
+  - first:
+      213: 5651765661988126395
+    second: carro_1
+  - first:
+      213: 4941509371002556254
+    second: carro_2
+  - first:
+      213: -7587868982557165520
+    second: carro_3
+  - first:
+      213: -2184922420116499599
+    second: carro_4
+  - first:
+      213: -8223706268584692000
+    second: carro_5
+  - first:
+      213: 3271296798002568069
+    second: carro_6
+  - first:
+      213: -407812939902122651
+    second: carro_7
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 388, y: 221, z: 10, w: 49}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: carro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227
+        width: 370
+        height: 165
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: 2.5}
+        - {x: 73, y: 11.5}
+        - {x: 124, y: 11.5}
+        - {x: 124, y: 2.5}
+      - - {x: 152, y: 37.5}
+        - {x: 152, y: 37.5}
+        - {x: 183, y: 37.5}
+        - {x: 183, y: 37.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5925514b42d3aac44939c83ccb7975f0
+      internalID: 2464306438850978715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_1
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 227
+        width: 243
+        height: 113
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2c2f89e4a543140b3b78268bece66e
+      internalID: 5651765661988126395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 264
+        height: 109
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480afb7ad9766a54cafe75d564961f3e
+      internalID: 4941509371002556254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_3
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 94
+        width: 187
+        height: 57
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd027cd110d1d645b4af09721a04abd
+      internalID: -7587868982557165520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_4
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 94
+        width: 161
+        height: 58
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642db07d0b7704d4f8bb1626c1676590
+      internalID: -2184922420116499599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 183
+        height: 57
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf8b24e23e2ba44b971161491d5b5a7
+      internalID: -8223706268584692000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 200
+        height: 60
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4513fd75e540ede4cb91f6e1543758e6
+      internalID: 3271296798002568069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carro_7
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 0
+        width: 187
+        height: 57
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016a05171b0987a41abb417ac7b638c4
+      internalID: -407812939902122651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -288, y: -137}
+      - {x: -309, y: -141}
+      - {x: -309, y: -196}
+      - {x: -126, y: -196}
+      - {x: -122, y: -193}
+      - {x: -122, y: -162}
+      - {x: -151, y: -137}
+    - - {x: 33, y: -134}
+      - {x: -70, y: -134}
+      - {x: -99, y: -153}
+      - {x: -99, y: -194}
+      - {x: -91, y: -196}
+      - {x: 105, y: -196}
+      - {x: 105, y: -171}
+      - {x: 59, y: -137}
+    - - {x: 320, y: -145}
+      - {x: 264, y: -137}
+      - {x: 162, y: -137}
+      - {x: 131, y: -162}
+      - {x: 131, y: -182}
+      - {x: 153, y: -196}
+      - {x: 320, y: -196}
+    - - {x: -302, y: 9}
+      - {x: -314, y: 7}
+      - {x: -320, y: -35}
+      - {x: -320, y: -104}
+      - {x: -62, y: -104}
+      - {x: -54, y: -93}
+      - {x: -54, y: 5}
+      - {x: -56, y: 9}
+    - - {x: -9, y: -43}
+      - {x: -39, y: -51}
+      - {x: -39, y: -104}
+      - {x: 147, y: -104}
+      - {x: 152, y: -95}
+      - {x: 152, y: -57}
+      - {x: 128, y: -43}
+    - - {x: 166, y: -42}
+      - {x: 157, y: -63}
+      - {x: 157, y: -104}
+      - {x: 317, y: -104}
+      - {x: 320, y: -103}
+      - {x: 320, y: -66}
+      - {x: 267, y: -42}
+    - - {x: -320, y: 196}
+      - {x: -320, y: 29}
+      - {x: 46, y: 29}
+      - {x: 52, y: 66}
+      - {x: 52, y: 158}
+      - {x: 2, y: 196}
+    - - {x: 221, y: 145}
+      - {x: 70, y: 146}
+      - {x: 70, y: 45}
+      - {x: 84, y: 29}
+      - {x: 305, y: 29}
+      - {x: 310, y: 34}
+      - {x: 310, y: 108}
+      - {x: 283, y: 143}
+    - - {x: 63, y: 40}
+      - {x: 65, y: 38}
+      - {x: 68, y: 39}
+      - {x: 68, y: 49}
+      - {x: 66, y: 51}
+      - {x: 63, y: 50}
+    physicsShape: []
+    bones: []
+    spriteID: 4a0ce99e2fd6a134fb0f61b41d70c590
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
