@@ -1,0 +1,4390 @@
+fileFormatVersion: 2
+guid: bb18620955170794abb0e072d98c73b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -68939671706880448
+    second: sccpre.cat-french-mustache-png-685081_0
+  - first:
+      213: -5151071338962690822
+    second: sccpre.cat-french-mustache-png-685081_1
+  - first:
+      213: 1029943473929899717
+    second: sccpre.cat-french-mustache-png-685081_2
+  - first:
+      213: 9113868612605509249
+    second: sccpre.cat-french-mustache-png-685081_3
+  - first:
+      213: -3306557823656363297
+    second: sccpre.cat-french-mustache-png-685081_4
+  - first:
+      213: -2770735210428324315
+    second: sccpre.cat-french-mustache-png-685081_5
+  - first:
+      213: 614338132942814414
+    second: sccpre.cat-french-mustache-png-685081_6
+  - first:
+      213: 7483810564145881427
+    second: sccpre.cat-french-mustache-png-685081_7
+  - first:
+      213: -2741208740471837515
+    second: sccpre.cat-french-mustache-png-685081_8
+  - first:
+      213: -5517769065233729062
+    second: sccpre.cat-french-mustache-png-685081_9
+  - first:
+      213: -5099918111603061541
+    second: sccpre.cat-french-mustache-png-685081_10
+  - first:
+      213: -2049646505060641629
+    second: sccpre.cat-french-mustache-png-685081_11
+  - first:
+      213: -6048050741938565393
+    second: sccpre.cat-french-mustache-png-685081_12
+  - first:
+      213: 1155604593836264606
+    second: sccpre.cat-french-mustache-png-685081_13
+  - first:
+      213: -3423406941800671046
+    second: sccpre.cat-french-mustache-png-685081_14
+  - first:
+      213: 6317735336010228562
+    second: sccpre.cat-french-mustache-png-685081_15
+  - first:
+      213: 8478872620606694642
+    second: sccpre.cat-french-mustache-png-685081_16
+  - first:
+      213: -854882231085673499
+    second: sccpre.cat-french-mustache-png-685081_17
+  - first:
+      213: -3572699367596779571
+    second: sccpre.cat-french-mustache-png-685081_18
+  - first:
+      213: 7439195619337213448
+    second: sccpre.cat-french-mustache-png-685081_19
+  - first:
+      213: 1347074886511060475
+    second: sccpre.cat-french-mustache-png-685081_20
+  - first:
+      213: 7305850904415765178
+    second: sccpre.cat-french-mustache-png-685081_21
+  - first:
+      213: -5131657050849884839
+    second: sccpre.cat-french-mustache-png-685081_22
+  - first:
+      213: -2533833595361871330
+    second: sccpre.cat-french-mustache-png-685081_23
+  - first:
+      213: -1490029781824905366
+    second: sccpre.cat-french-mustache-png-685081_24
+  - first:
+      213: 4807751525983031162
+    second: sccpre.cat-french-mustache-png-685081_25
+  - first:
+      213: 7984533828423066881
+    second: sccpre.cat-french-mustache-png-685081_26
+  - first:
+      213: 2583968578428323244
+    second: sccpre.cat-french-mustache-png-685081_27
+  - first:
+      213: 6964526955429656334
+    second: sccpre.cat-french-mustache-png-685081_28
+  - first:
+      213: 4030330038313328150
+    second: sccpre.cat-french-mustache-png-685081_29
+  - first:
+      213: -1398625212923391317
+    second: sccpre.cat-french-mustache-png-685081_30
+  - first:
+      213: 2267661775175673483
+    second: sccpre.cat-french-mustache-png-685081_31
+  - first:
+      213: -2068154480606781367
+    second: sccpre.cat-french-mustache-png-685081_32
+  - first:
+      213: -3401938274244557692
+    second: sccpre.cat-french-mustache-png-685081_33
+  - first:
+      213: 8948355989458433048
+    second: sccpre.cat-french-mustache-png-685081_34
+  - first:
+      213: -5811200732396217954
+    second: sccpre.cat-french-mustache-png-685081_35
+  - first:
+      213: 2608178789822536600
+    second: sccpre.cat-french-mustache-png-685081_36
+  - first:
+      213: -7963365770218074056
+    second: sccpre.cat-french-mustache-png-685081_37
+  - first:
+      213: -2997399348938045623
+    second: sccpre.cat-french-mustache-png-685081_38
+  - first:
+      213: -4036874248762856862
+    second: sccpre.cat-french-mustache-png-685081_39
+  - first:
+      213: 6936737661223948082
+    second: sccpre.cat-french-mustache-png-685081_40
+  - first:
+      213: 7651718504995685783
+    second: sccpre.cat-french-mustache-png-685081_41
+  - first:
+      213: 8974747995646895360
+    second: sccpre.cat-french-mustache-png-685081_42
+  - first:
+      213: 7618030970216836193
+    second: sccpre.cat-french-mustache-png-685081_43
+  - first:
+      213: -1039426091108371749
+    second: sccpre.cat-french-mustache-png-685081_44
+  - first:
+      213: 2124616041879543331
+    second: sccpre.cat-french-mustache-png-685081_45
+  - first:
+      213: -7426934946459683618
+    second: sccpre.cat-french-mustache-png-685081_46
+  - first:
+      213: -4833484003662807390
+    second: sccpre.cat-french-mustache-png-685081_47
+  - first:
+      213: 942939615205539797
+    second: sccpre.cat-french-mustache-png-685081_48
+  - first:
+      213: 4483764446469704641
+    second: sccpre.cat-french-mustache-png-685081_49
+  - first:
+      213: -1669614807039840732
+    second: sccpre.cat-french-mustache-png-685081_50
+  - first:
+      213: -4069741917837265834
+    second: sccpre.cat-french-mustache-png-685081_51
+  - first:
+      213: -3102701901303259540
+    second: sccpre.cat-french-mustache-png-685081_52
+  - first:
+      213: 3069370341357342056
+    second: sccpre.cat-french-mustache-png-685081_53
+  - first:
+      213: -5034188667367434640
+    second: sccpre.cat-french-mustache-png-685081_54
+  - first:
+      213: 6530681004080563676
+    second: sccpre.cat-french-mustache-png-685081_55
+  - first:
+      213: 4731066853807277743
+    second: sccpre.cat-french-mustache-png-685081_56
+  - first:
+      213: 4097378120157734215
+    second: sccpre.cat-french-mustache-png-685081_57
+  - first:
+      213: 6616392027571831955
+    second: sccpre.cat-french-mustache-png-685081_58
+  - first:
+      213: -1811735889683409770
+    second: sccpre.cat-french-mustache-png-685081_59
+  - first:
+      213: 2346427166061001559
+    second: sccpre.cat-french-mustache-png-685081_60
+  - first:
+      213: 7288540386280938191
+    second: sccpre.cat-french-mustache-png-685081_61
+  - first:
+      213: 6844416060032979087
+    second: sccpre.cat-french-mustache-png-685081_62
+  - first:
+      213: -2924382492222750948
+    second: sccpre.cat-french-mustache-png-685081_63
+  - first:
+      213: -8753261338705091259
+    second: sccpre.cat-french-mustache-png-685081_64
+  - first:
+      213: 5109913665554022454
+    second: sccpre.cat-french-mustache-png-685081_65
+  - first:
+      213: -6566895319429490616
+    second: sccpre.cat-french-mustache-png-685081_66
+  - first:
+      213: 7544174970609485351
+    second: sccpre.cat-french-mustache-png-685081_67
+  - first:
+      213: -3409582453499227084
+    second: sccpre.cat-french-mustache-png-685081_68
+  - first:
+      213: 2971807997101316602
+    second: sccpre.cat-french-mustache-png-685081_69
+  - first:
+      213: 9201298135357453498
+    second: sccpre.cat-french-mustache-png-685081_70
+  - first:
+      213: 1097923861039849234
+    second: sccpre.cat-french-mustache-png-685081_71
+  - first:
+      213: -8735752485978509367
+    second: sccpre.cat-french-mustache-png-685081_72
+  - first:
+      213: -1335525621996929902
+    second: sccpre.cat-french-mustache-png-685081_73
+  - first:
+      213: 3329218302585094189
+    second: sccpre.cat-french-mustache-png-685081_74
+  - first:
+      213: 5105279053139168817
+    second: sccpre.cat-french-mustache-png-685081_75
+  - first:
+      213: 3077655885685862515
+    second: sccpre.cat-french-mustache-png-685081_76
+  - first:
+      213: 8453912869713897097
+    second: sccpre.cat-french-mustache-png-685081_77
+  - first:
+      213: 5236254628265059713
+    second: sccpre.cat-french-mustache-png-685081_78
+  - first:
+      213: 1243428970181869623
+    second: sccpre.cat-french-mustache-png-685081_79
+  - first:
+      213: -5399309831803226519
+    second: sccpre.cat-french-mustache-png-685081_80
+  - first:
+      213: 8174322212630569400
+    second: sccpre.cat-french-mustache-png-685081_81
+  - first:
+      213: -944011843690903355
+    second: sccpre.cat-french-mustache-png-685081_82
+  - first:
+      213: -892116903977789659
+    second: sccpre.cat-french-mustache-png-685081_83
+  - first:
+      213: 878854831059457269
+    second: sccpre.cat-french-mustache-png-685081_84
+  - first:
+      213: -5849072573075155226
+    second: sccpre.cat-french-mustache-png-685081_85
+  - first:
+      213: -1667912034428436911
+    second: sccpre.cat-french-mustache-png-685081_86
+  - first:
+      213: -1116452053734002068
+    second: sccpre.cat-french-mustache-png-685081_87
+  - first:
+      213: -8362577596857534785
+    second: sccpre.cat-french-mustache-png-685081_88
+  - first:
+      213: -1059190901641023966
+    second: sccpre.cat-french-mustache-png-685081_89
+  - first:
+      213: -7985866314586810187
+    second: sccpre.cat-french-mustache-png-685081_90
+  - first:
+      213: -2072514263325927888
+    second: sccpre.cat-french-mustache-png-685081_91
+  - first:
+      213: -943492260085516
+    second: sccpre.cat-french-mustache-png-685081_92
+  - first:
+      213: -4348792470897262855
+    second: sccpre.cat-french-mustache-png-685081_93
+  - first:
+      213: 3515417487265188644
+    second: sccpre.cat-french-mustache-png-685081_94
+  - first:
+      213: 7021947912096333291
+    second: sccpre.cat-french-mustache-png-685081_95
+  - first:
+      213: 8686362441032573891
+    second: sccpre.cat-french-mustache-png-685081_96
+  - first:
+      213: 7494547170790805700
+    second: sccpre.cat-french-mustache-png-685081_97
+  - first:
+      213: -387581353120996954
+    second: sccpre.cat-french-mustache-png-685081_98
+  - first:
+      213: -1123957299308501091
+    second: sccpre.cat-french-mustache-png-685081_99
+  - first:
+      213: -5373015232348740807
+    second: sccpre.cat-french-mustache-png-685081_100
+  - first:
+      213: 4634357720482183347
+    second: sccpre.cat-french-mustache-png-685081_101
+  - first:
+      213: 3451084910494482576
+    second: sccpre.cat-french-mustache-png-685081_102
+  - first:
+      213: 5301811063184719713
+    second: sccpre.cat-french-mustache-png-685081_103
+  - first:
+      213: -9080817792065137368
+    second: sccpre.cat-french-mustache-png-685081_104
+  - first:
+      213: 2566642015703934989
+    second: sccpre.cat-french-mustache-png-685081_105
+  - first:
+      213: -6287239183139236485
+    second: sccpre.cat-french-mustache-png-685081_106
+  - first:
+      213: -3666034001779054855
+    second: sccpre.cat-french-mustache-png-685081_107
+  - first:
+      213: -1779182489511469750
+    second: sccpre.cat-french-mustache-png-685081_108
+  - first:
+      213: 1485894943716610443
+    second: sccpre.cat-french-mustache-png-685081_109
+  - first:
+      213: 7321979024703814196
+    second: sccpre.cat-french-mustache-png-685081_110
+  - first:
+      213: 3306531068844721625
+    second: sccpre.cat-french-mustache-png-685081_111
+  - first:
+      213: 7703066750772221007
+    second: sccpre.cat-french-mustache-png-685081_112
+  - first:
+      213: 7767965401123653557
+    second: sccpre.cat-french-mustache-png-685081_113
+  - first:
+      213: -8739440289404925063
+    second: sccpre.cat-french-mustache-png-685081_114
+  - first:
+      213: -4587374930467719441
+    second: sccpre.cat-french-mustache-png-685081_115
+  - first:
+      213: -3410694502600043420
+    second: sccpre.cat-french-mustache-png-685081_116
+  - first:
+      213: 1812001177713022824
+    second: sccpre.cat-french-mustache-png-685081_117
+  - first:
+      213: 3281426733720007755
+    second: sccpre.cat-french-mustache-png-685081_118
+  - first:
+      213: -7836645305137663521
+    second: sccpre.cat-french-mustache-png-685081_119
+  - first:
+      213: -3152195534577801697
+    second: sccpre.cat-french-mustache-png-685081_120
+  - first:
+      213: -3570953899292733006
+    second: sccpre.cat-french-mustache-png-685081_121
+  - first:
+      213: 8195260452532281430
+    second: sccpre.cat-french-mustache-png-685081_122
+  - first:
+      213: -9091378147357966675
+    second: sccpre.cat-french-mustache-png-685081_123
+  - first:
+      213: 5400629505302477931
+    second: sccpre.cat-french-mustache-png-685081_124
+  - first:
+      213: 2020114766589342837
+    second: sccpre.cat-french-mustache-png-685081_125
+  - first:
+      213: -4941223200027966432
+    second: sccpre.cat-french-mustache-png-685081_126
+  - first:
+      213: 5813511799537706488
+    second: sccpre.cat-french-mustache-png-685081_127
+  - first:
+      213: -5464866247731425204
+    second: sccpre.cat-french-mustache-png-685081_128
+  - first:
+      213: -4466969421122069302
+    second: sccpre.cat-french-mustache-png-685081_129
+  - first:
+      213: -644171728387990066
+    second: sccpre.cat-french-mustache-png-685081_130
+  - first:
+      213: 2567774843773881070
+    second: sccpre.cat-french-mustache-png-685081_131
+  - first:
+      213: 5388037898743005493
+    second: sccpre.cat-french-mustache-png-685081_132
+  - first:
+      213: 224220097379291004
+    second: sccpre.cat-french-mustache-png-685081_133
+  - first:
+      213: -4991272616474833640
+    second: sccpre.cat-french-mustache-png-685081_134
+  - first:
+      213: -550747283819289956
+    second: sccpre.cat-french-mustache-png-685081_135
+  - first:
+      213: -433111694553268396
+    second: sccpre.cat-french-mustache-png-685081_136
+  - first:
+      213: 3759622075909027915
+    second: sccpre.cat-french-mustache-png-685081_137
+  - first:
+      213: -3965387547624478898
+    second: sccpre.cat-french-mustache-png-685081_138
+  - first:
+      213: 5889239040214102696
+    second: sccpre.cat-french-mustache-png-685081_139
+  - first:
+      213: -1330569094559947319
+    second: sccpre.cat-french-mustache-png-685081_140
+  - first:
+      213: 4860715715365818042
+    second: sccpre.cat-french-mustache-png-685081_141
+  - first:
+      213: -8705739733800033661
+    second: sccpre.cat-french-mustache-png-685081_142
+  - first:
+      213: 8773493265148609179
+    second: sccpre.cat-french-mustache-png-685081_143
+  - first:
+      213: -7514002326339857942
+    second: sccpre.cat-french-mustache-png-685081_144
+  - first:
+      213: -3136166033901728715
+    second: sccpre.cat-french-mustache-png-685081_145
+  - first:
+      213: -1663325459519622634
+    second: sccpre.cat-french-mustache-png-685081_146
+  - first:
+      213: 1049350066714824876
+    second: sccpre.cat-french-mustache-png-685081_147
+  - first:
+      213: -5996407901488777159
+    second: sccpre.cat-french-mustache-png-685081_148
+  - first:
+      213: 3192253938814019292
+    second: sccpre.cat-french-mustache-png-685081_149
+  - first:
+      213: -3332292238174187724
+    second: sccpre.cat-french-mustache-png-685081_150
+  - first:
+      213: 9153655764231421748
+    second: sccpre.cat-french-mustache-png-685081_151
+  - first:
+      213: 1035527789157207995
+    second: sccpre.cat-french-mustache-png-685081_152
+  - first:
+      213: 706101990406902473
+    second: sccpre.cat-french-mustache-png-685081_153
+  - first:
+      213: -1554521281922509442
+    second: sccpre.cat-french-mustache-png-685081_154
+  - first:
+      213: 6600762735770093559
+    second: sccpre.cat-french-mustache-png-685081_155
+  - first:
+      213: -7227909840656477739
+    second: sccpre.cat-french-mustache-png-685081_156
+  - first:
+      213: -955335717303184930
+    second: sccpre.cat-french-mustache-png-685081_157
+  - first:
+      213: -4605542674324536083
+    second: sccpre.cat-french-mustache-png-685081_158
+  - first:
+      213: -2573223096475173222
+    second: sccpre.cat-french-mustache-png-685081_159
+  - first:
+      213: 7314250230758920937
+    second: sccpre.cat-french-mustache-png-685081_160
+  - first:
+      213: -8452383007150469802
+    second: sccpre.cat-french-mustache-png-685081_161
+  - first:
+      213: 7739082676661804840
+    second: sccpre.cat-french-mustache-png-685081_162
+  - first:
+      213: 1290226265361205185
+    second: sccpre.cat-french-mustache-png-685081_163
+  - first:
+      213: 930998358616572465
+    second: sccpre.cat-french-mustache-png-685081_164
+  - first:
+      213: -7631792737907538059
+    second: sccpre.cat-french-mustache-png-685081_165
+  - first:
+      213: -2427536829687434342
+    second: sccpre.cat-french-mustache-png-685081_166
+  - first:
+      213: 7642437705223394500
+    second: sccpre.cat-french-mustache-png-685081_167
+  - first:
+      213: 2863322414509849557
+    second: sccpre.cat-french-mustache-png-685081_168
+  - first:
+      213: 5891948766243661104
+    second: sccpre.cat-french-mustache-png-685081_169
+  - first:
+      213: 6329857941269401754
+    second: sccpre.cat-french-mustache-png-685081_170
+  - first:
+      213: -1020644123836412082
+    second: sccpre.cat-french-mustache-png-685081_171
+  - first:
+      213: 8860063594674012218
+    second: sccpre.cat-french-mustache-png-685081_172
+  - first:
+      213: -6244448724456487166
+    second: sccpre.cat-french-mustache-png-685081_173
+  - first:
+      213: 4747198546722614686
+    second: sccpre.cat-french-mustache-png-685081_174
+  - first:
+      213: -1455774510713682583
+    second: sccpre.cat-french-mustache-png-685081_175
+  - first:
+      213: 5394475873401292745
+    second: sccpre.cat-french-mustache-png-685081_176
+  - first:
+      213: 5411139827454557974
+    second: sccpre.cat-french-mustache-png-685081_177
+  - first:
+      213: -3378974416564506321
+    second: walk1
+  - first:
+      213: 8121110000624340964
+    second: sccpre.cat-french-mustache-png-685081_178
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1281
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bf7bb44377fe341bcfc1a9fd6b2827
+      internalID: -68939671706880448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1281
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604a38112b306c946959894306535702
+      internalID: -5151071338962690822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1281
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868a8f286281c254c837c9ad59e1447f
+      internalID: 1029943473929899717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1281
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033c600683e7c5246ac964d96be31c90
+      internalID: 9113868612605509249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1281
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f73be64ea84a444afcd0b99a8451cc
+      internalID: -3306557823656363297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1281
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c576883448ac7f245ac3a3136c837fa9
+      internalID: -2770735210428324315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1281
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d374a3fdb6fde24d91f8483ef228d08
+      internalID: 614338132942814414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1217
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7844c9f23851649af77dfae1336ee8
+      internalID: 7483810564145881427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1217
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf809cef55992c14d8185c371cc7aab7
+      internalID: -2741208740471837515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1217
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e4f9ff988434c4b8f5ae97a2d61fa3
+      internalID: -5517769065233729062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1217
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb67dba258a271f4ea2352a9c5e12648
+      internalID: -5099918111603061541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1217
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a808ca097b20b4348bd9ffe7a2d427d4
+      internalID: -2049646505060641629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_12
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1217
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faf315b12102a64ab55fa336825f5f7
+      internalID: -6048050741938565393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_13
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1217
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536924249fa415d4a9528d040c3e1f71
+      internalID: 1155604593836264606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1153
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c56a067fa561e340b0944416c0295e2
+      internalID: -3423406941800671046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1153
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eae9e456ad50f14a81d41f77bc5594a
+      internalID: 6317735336010228562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1153
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402c4b8be600ce0479fb96c8f08dfb8a
+      internalID: 8478872620606694642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1153
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03764641f50ab34db5a10b54e276bb5
+      internalID: -854882231085673499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_18
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1153
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01acea20ac19c7c4db80d466328f7876
+      internalID: -3572699367596779571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1153
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f237662afd79bcd44a2f27474be7de33
+      internalID: 7439195619337213448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_20
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1153
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceec8cf4b2509b46ac522c83ed60bd0
+      internalID: 1347074886511060475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1089
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64993cec213830341afe7b81d16b2400
+      internalID: 7305850904415765178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1089
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27b0883d879007459c39b3a0a7c471b
+      internalID: -5131657050849884839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_23
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1089
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3763eedfe4f06fe418883b0a6dfadff1
+      internalID: -2533833595361871330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_24
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1089
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516d13c3aef48c0459148ac2313f04c0
+      internalID: -1490029781824905366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1089
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cba8afea99baf49b939fb86532ae15
+      internalID: 4807751525983031162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_26
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1089
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cda9c88df12f0249956cc51cd74254a
+      internalID: 7984533828423066881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_27
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1089
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306ebeabd39c0334a99b3f80bf2b1d63
+      internalID: 2583968578428323244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1025
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58721f4c0e9b56249a7755118dcd257f
+      internalID: 6964526955429656334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1025
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bb11211b66e9c408fc4e9fd9756def
+      internalID: 4030330038313328150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_30
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1025
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42f66504d160e144909d5d6c8f76916
+      internalID: -1398625212923391317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_31
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1025
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790d42fb363d4ba409eabec387ec8818
+      internalID: 2267661775175673483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_32
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1025
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d992c5e33d96e142ae3b973d14201f9
+      internalID: -2068154480606781367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_33
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1025
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c8556e6dc30894b88e846ff8e9c292
+      internalID: -3401938274244557692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_34
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1025
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3d2ee1e96ac424a9e6212d64415b3c
+      internalID: 8948355989458433048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_35
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1025
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd01bfc7d9a8ab45afef294ff4b8cff
+      internalID: -5811200732396217954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 961
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb6cc1555591694283ad0140569f2f8
+      internalID: 2608178789822536600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_37
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 961
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d1934c5974913409ee1f8cb6dac9dc
+      internalID: -7963365770218074056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_38
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 961
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46d056c87d34214a9c08cf80c0b5e0b
+      internalID: -2997399348938045623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_39
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 961
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecbb9c3c350c4140aa637ba667ea1be
+      internalID: -4036874248762856862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_40
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 961
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622f82824b8a5d34a909a64b449db653
+      internalID: 6936737661223948082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_41
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 961
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9631286b4b64b48a02716167ce9820
+      internalID: 7651718504995685783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_42
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 961
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3363367db588dd947b98a638208346f9
+      internalID: 8974747995646895360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_43
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 961
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2e4fd8bf8bb4842b58eea8a0219cac
+      internalID: 7618030970216836193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 897
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc12f0c84e9f824aa4c64966f44fdfd
+      internalID: -1039426091108371749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_45
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 897
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07def11289110d147b2b01739f71007c
+      internalID: 2124616041879543331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_46
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 897
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfefb6ed51179684d85d83b40ebe9d82
+      internalID: -7426934946459683618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_47
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 897
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf337c81a3a1914fa2188528911bba9
+      internalID: -4833484003662807390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_48
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 897
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a607c69a74dde054ab07ea8919c1d69d
+      internalID: 942939615205539797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_49
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 897
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9641dd37cc9b8c244a51014f70042999
+      internalID: 4483764446469704641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_50
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 897
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6b654a1e8367e45a1ee99283b10ffa
+      internalID: -1669614807039840732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_51
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 897
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d00c3045a611b841a95a3045d8baecc
+      internalID: -4069741917837265834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 833
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706fc589b4bf6ac4687709df3a387e5c
+      internalID: -3102701901303259540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_53
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 833
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960e256e49498be4b88123322ff6109b
+      internalID: 3069370341357342056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_54
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 833
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a17cb2872b7b2c4e9a9787188c8c61e
+      internalID: -5034188667367434640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_55
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 833
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5718681b1f67a946a64c9004a8c3c87
+      internalID: 6530681004080563676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_56
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 833
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11504586301085428424d9051d4364e
+      internalID: 4731066853807277743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_57
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 833
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e4faf2d474a7c40b328498878f8c0b
+      internalID: 4097378120157734215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_58
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 833
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5de9a858c4fda540967065fa7389333
+      internalID: 6616392027571831955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_59
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 833
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c610faa7ffc1fca4a8b8c3cf8ef7c388
+      internalID: -1811735889683409770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 769
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46128bf9fa2c8cb4181ea91be3f29fb3
+      internalID: 2346427166061001559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_61
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 769
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178562c2bd5565844890a4b09075f361
+      internalID: 7288540386280938191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_62
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 769
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8f4161667cc6446b961a3edbc1358e
+      internalID: 6844416060032979087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_63
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 769
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab4a3f366edfda44924e2825a3e78cb
+      internalID: -2924382492222750948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_64
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 769
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff2bc2c88c679d43a902b3786e1fb52
+      internalID: -8753261338705091259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_65
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 769
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e847319c4dd224c9caae24e815598a
+      internalID: 5109913665554022454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_66
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 769
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5817f9e232cfd747affcb4ed801d0f9
+      internalID: -6566895319429490616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_67
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 769
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85932e000ad83c54f810aec3bd2e2f50
+      internalID: 7544174970609485351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_68
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 769
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347dd86284d46f24a8d59c8cd2db5f5d
+      internalID: -3409582453499227084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 705
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1e187982a94a84ca8536995b886748
+      internalID: 2971807997101316602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_70
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 705
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8f247ce0cc2ab49b774845d96ae08f
+      internalID: 9201298135357453498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_71
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 705
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ab77546142284499db0e89e6d995ab
+      internalID: 1097923861039849234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_72
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 705
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8cdcc6610ea3d4e8e0767d63052f14
+      internalID: -8735752485978509367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_73
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 705
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0057733889eeb9a4886aee4a36e0e68a
+      internalID: -1335525621996929902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_74
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 705
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c83111db2da9e43ad3da9d7242cbf4
+      internalID: 3329218302585094189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_75
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 705
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685c2c2261896784c89bc46e437d7a7d
+      internalID: 5105279053139168817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_76
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 705
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6181d561539fc2641bf2dd39bf1932c7
+      internalID: 3077655885685862515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_77
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 705
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf71395f13f37344b76d3a6e268cb2e
+      internalID: 8453912869713897097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 641
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a30920b48c420c44aedcae755e3b0e8
+      internalID: 5236254628265059713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_79
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 641
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9000b3b17c951084a9200d0abb41de08
+      internalID: 1243428970181869623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_80
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 641
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfb71ae672270747aafd1da9bdeac19
+      internalID: -5399309831803226519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_81
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 641
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e360f53579420247935b19eadc7fc1f
+      internalID: 8174322212630569400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_82
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 641
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5570886aecb65914ca5bd4272b76e7a5
+      internalID: -944011843690903355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_83
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 641
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66c8882b7c32e64197c27287defbe27
+      internalID: -892116903977789659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_84
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 641
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa7968b2a5c9d94cb34550221c3ba74
+      internalID: 878854831059457269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_85
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 641
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfcc8619cae72549b088c759a4b38b4
+      internalID: -5849072573075155226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_86
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 641
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15bb5c94dbc3d64fac54dba25169ad3
+      internalID: -1667912034428436911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 577
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3653cf1674dd33c4da10648a4270c1fc
+      internalID: -1116452053734002068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_88
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 578
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04302549c081f734c965f1e80888f795
+      internalID: -8362577596857534785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_89
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 579
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4831c1ca6b92ee4593adbaf3f34eb73
+      internalID: -1059190901641023966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_90
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 579
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69a7763a935be14795f63cd5180c74b
+      internalID: -7985866314586810187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_91
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 578
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ec0208743e66045bcb1fde65f8d610
+      internalID: -2072514263325927888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_92
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 578
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854f8f62526fd7a49a073f56a832e145
+      internalID: -943492260085516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_93
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 578
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd13fba2c091f894b88ef6d7f73623d7
+      internalID: -4348792470897262855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_94
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 578
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733af9efd6ad7a24484873fb237755c0
+      internalID: 3515417487265188644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_95
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 578
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ede4d95ff9a5448b81e9cdcbcab27d
+      internalID: 7021947912096333291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2368ecf72be2d9c4d9883ffc7485beb9
+      internalID: 8686362441032573891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_97
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 513
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3233df3636b7e71408e6aa83ab53b0da
+      internalID: 7494547170790805700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_98
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 513
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3c6443c791ef2419b9ac2ef87b32a5
+      internalID: -387581353120996954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_99
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 513
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f9b947a833f4a4483a8ad70e09d613
+      internalID: -1123957299308501091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_100
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 513
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694074d9b5a82404b84445ab2f002800
+      internalID: -5373015232348740807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_101
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 513
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c881e5c4aca5c2d48a500778471202dd
+      internalID: 4634357720482183347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e5c59aa574741458d33371380c9868
+      internalID: 3451084910494482576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_103
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 449
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539ab3f9a3b80f545aab2c5250acafd7
+      internalID: 5301811063184719713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_104
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 449
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b8b228de418f647a40aa57c5c31236
+      internalID: -9080817792065137368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_105
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 449
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98002445f5f8bf340a9fdc29deb39a06
+      internalID: 2566642015703934989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_106
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 449
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6add5a58279dc4899db70091c23617
+      internalID: -6287239183139236485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_107
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 449
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0227b022e89e2db4582f40080951ac07
+      internalID: -3666034001779054855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4a9ba4a6a97a542a6c319e840b5e2f
+      internalID: -1779182489511469750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_109
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 385
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f352d9813b5fa44a74a58988c73f5f
+      internalID: 1485894943716610443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_110
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 385
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9286172733699bf419ee78ede21ffd0c
+      internalID: 7321979024703814196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_111
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 385
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aaa6413054ee94387932860144fd90
+      internalID: 3306531068844721625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_112
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 385
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda34bed17a56d741ba89a7ca35a56d3
+      internalID: 7703066750772221007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_113
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 385
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c894abedf17d4044b35285a1722df56
+      internalID: 7767965401123653557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d3efbba70dc8149bd4a45ff99a2b4e
+      internalID: -8739440289404925063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_115
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 321
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58feba7607b95bb478c8a30af60faea9
+      internalID: -4587374930467719441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_116
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 321
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd56b80376d125458a3f82b03a0b36b
+      internalID: -3410694502600043420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_117
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 321
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959ac33ea2e551c4a8a232fff7602804
+      internalID: 1812001177713022824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_118
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 322
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7557ec5cf884683418bb76a5f22ad5eb
+      internalID: 3281426733720007755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_119
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 322
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3285f6be4fa76804299765c5ef182144
+      internalID: -7836645305137663521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ad50dbc31796f45a122dbf583f7a6b
+      internalID: -3152195534577801697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_121
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 257
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f55f8bbb72c974d8cb8385d02c0741
+      internalID: -3570953899292733006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_122
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 257
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbccc0cb01e8d84d842211cb03db1aa
+      internalID: 8195260452532281430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_123
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 257
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2493369a1bfb5474da617353ccc61c1f
+      internalID: -9091378147357966675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_124
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 257
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc72ea2608304f4390b48d9f3bf2e22
+      internalID: 5400629505302477931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_125
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 257
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6594eeb3ad7417743beeb5ac2a774fdf
+      internalID: 2020114766589342837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_126
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 257
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68df923a72ad7f145b6cc81ca607a503
+      internalID: -4941223200027966432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_127
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 257
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9f975a6dce34d4fb00503928f161b7
+      internalID: 5813511799537706488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_128
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 257
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a93bbd1f7f5c1642b1835616950dbd0
+      internalID: -5464866247731425204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_129
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 257
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1192e984301949344bf20afb2304f569
+      internalID: -4466969421122069302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_130
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 257
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603de42cc5355194690179bdf0743947
+      internalID: -644171728387990066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_131
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 257
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31016f13eb459341a7a455b31fb5737
+      internalID: 2567774843773881070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_132
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 257
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dc18fcd2295b84581fd248a2afeeb9
+      internalID: 5388037898743005493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee664f6ef81eaf6498dfc3359392d0a7
+      internalID: 224220097379291004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_134
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 193
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acee7cdfcd691f8448c9080f1e6fb24b
+      internalID: -4991272616474833640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_135
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 193
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b6c217db6593b43a3f2526315fd7a7
+      internalID: -550747283819289956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_136
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 193
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c2877b3de394847ae454db69efa7af
+      internalID: -433111694553268396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_137
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 193
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ba45c300535bf4eb720db6493b0063
+      internalID: 3759622075909027915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_138
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 193
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdeba52a6322ba8419a3bf9bc004e6df
+      internalID: -3965387547624478898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_139
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 193
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726cf0441b637c448bdc6270d5889a55
+      internalID: 5889239040214102696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_140
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 193
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2cbcebccc2b7b4887a0f474b0ef219
+      internalID: -1330569094559947319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_141
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 193
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1f4bc4eaf5a084b9ee173c3f8a8e19
+      internalID: 4860715715365818042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_142
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 193
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7948f485e2297564bafe639d10d04a2a
+      internalID: -8705739733800033661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_143
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 193
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6953d19c093d9458f6e48ad7909582
+      internalID: 8773493265148609179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_144
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 193
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de8c28c0ecd4134481aeabf4b7796bd
+      internalID: -7514002326339857942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_145
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 193
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17590f9af211fd84fb236051fb1af894
+      internalID: -3136166033901728715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f6783e5e3d85f469cac1b1d164d747
+      internalID: -1663325459519622634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_147
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 129
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedd7b1277371ec4ca85cffe72b2d54e
+      internalID: 1049350066714824876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_148
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 129
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8ef5d58983da4458bab79d898de297
+      internalID: -5996407901488777159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_149
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 129
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1d137353874554a899e85b90490c82
+      internalID: 3192253938814019292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_150
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 129
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34fb88ee1ab1f84f8173e02c9fde219
+      internalID: -3332292238174187724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_151
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 129
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954112d017c1cec43abccf152e2411fc
+      internalID: 9153655764231421748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_152
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 129
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ba71d324c15634c8a33c34a16b9421
+      internalID: 1035527789157207995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_153
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 129
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91880e4d114e2a48a692c46d7363bca
+      internalID: 706101990406902473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_154
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 129
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5433752808091c04d9b46d14bf224b46
+      internalID: -1554521281922509442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_155
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 129
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920ca933f67fcf64ab831794fb1ac746
+      internalID: 6600762735770093559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_156
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 129
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9889d829e3bd443b2961ff33a4c1e3
+      internalID: -7227909840656477739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_157
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 129
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbaa52cd11b56d41a4135facfad345d
+      internalID: -955335717303184930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_158
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 129
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff46588a1459b14aa3291c795a73cce
+      internalID: -4605542674324536083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d573d8aa741cc46499b13d951d3c581f
+      internalID: -2573223096475173222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_160
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 65
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f36e3787096fb47ba35086859f0556
+      internalID: 7314250230758920937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_161
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 65
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e25e140d2b1fa4ba98b7235c242811
+      internalID: -8452383007150469802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_162
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 65
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30e5d910d0fcd64781d12e075a3249c
+      internalID: 7739082676661804840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_163
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 65
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddd7db586ddc774b852679123b38d29
+      internalID: 1290226265361205185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_164
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 65
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9c36a153b47a6458e98363c89cca8b
+      internalID: 930998358616572465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_165
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 65
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f427b7bdfc03b94cb2339e591d70960
+      internalID: -7631792737907538059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_166
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 65
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9731084cf7e744a9d44b02e4db53d2
+      internalID: -2427536829687434342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_167
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 65
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823c03498dcd17a429bfa172e2d2688c
+      internalID: 7642437705223394500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_168
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 65
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026ad36849c031f409f91749d94ad15e
+      internalID: 2863322414509849557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_169
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 65
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e95262f48abcb4182d662f565df731
+      internalID: 5891948766243661104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_170
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 65
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c36697c1e1303478a8621fd66453d9
+      internalID: 6329857941269401754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_171
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 65
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681618f7953ccde4f9b2f9789264232f
+      internalID: -1020644123836412082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4423a31d266c9f94e83864b3583da19c
+      internalID: 8860063594674012218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_173
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a1f4294e22e3f44af224dc461c58a2
+      internalID: -6244448724456487166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_174
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1557ac8d3d802eb488d6d061f75475c0
+      internalID: 4747198546722614686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_175
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2816c015ad2566e46a2c2645e4ea6b85
+      internalID: -1455774510713682583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_176
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78da2ee65d86a4d45a3524dae2545146
+      internalID: 5394475873401292745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sccpre.cat-french-mustache-png-685081_177
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9533ec5ddb39fd64f9e58c07525ff89d
+      internalID: 5411139827454557974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b1530784cf5921e4d9976975be935dcb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
