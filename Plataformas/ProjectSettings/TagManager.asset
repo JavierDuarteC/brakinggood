@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ground
   - Quimico
+  - Lab
   layers:
   - Default
   - TransparentFX

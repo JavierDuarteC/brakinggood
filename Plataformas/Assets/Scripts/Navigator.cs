@@ -16,4 +16,8 @@ public class Navigator:MonoBehaviour
             SceneManager.LoadScene(sceneName: sceneName);
         }
     }
+
+    public void Win(){
+        SceneManager.LoadScene(sceneName: sceneName);
+    }
 }

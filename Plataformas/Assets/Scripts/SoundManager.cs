@@ -6,12 +6,19 @@ using UnityEngine.Audio;
 public class SoundManager : MonoBehaviour
 {
 
-
+[Header("Salto:")] 
     public AudioSource jumpEfx;
+
+[Header("Ambiente:")] 
     public AudioSource playingEfx;
+
+[Header("Quimicos:")] 
     public AudioSource plusEfx;
+    [Header("Break:")] 
     public AudioSource breakEfx;
+    [Header("Cocinando:")] 
     public AudioSource cookingEfx;
+[Header("Ganador:")] 
     public AudioSource winEfx;
 
     public static SoundManager instance = null;
@@ -30,6 +37,10 @@ public class SoundManager : MonoBehaviour
     {
         playingEfx.clip = clip;
         playingEfx.Play();
+    }
+    public void stopPlayingEfx()
+    {
+        playingEfx.Stop();
     }
     public void playJumpEfx(AudioClip clip)
     {

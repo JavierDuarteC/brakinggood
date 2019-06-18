@@ -34,12 +34,17 @@ public class Character : MonoBehaviour
     private GameManager _gm;
     private SoundManager _am;
 
+    
+
+    private bool isCooking;
+
 
     // Start is called before the first frame update
     void Start()
     {
         _rigidbody = GetComponent<Rigidbody2D>();
         _suelo = false;
+        isCooking = false;
         _anim = GetComponent<Animator>();
         _gm = GameObject.Find("GameManager").GetComponent<GameManager>();
         _am = GameObject.Find("SoundManager").GetComponent<SoundManager>();
@@ -51,10 +56,6 @@ public class Character : MonoBehaviour
         _horizontalMove = Input.GetAxisRaw("Horizontal") * speed;
         _anim.SetFloat("Speed", Mathf.Abs(_horizontalMove));
         _anim.SetBool("Grounded", _suelo);
-    
-        _anim.SetBool("IsCooking", (_gm.Quimico == 10 || _gm.Quimico == 11));
-           
-       
 
         
         //_anim.SetBool("isFalling", _rigidbody.velocity.y < -0.1);
@@ -72,6 +73,17 @@ public class Character : MonoBehaviour
             // print("Quimicos: [" + _gm.Quimico + ']');
             Destroy(other.gameObject);
 
+        }
+        else if (other.CompareTag("Lab"))
+        {
+            if ((_gm.Quimico == 10 || _gm.Quimico == 11))
+            {
+                _anim.SetBool("IsCooking", true);
+                isCooking = true;
+                _am.stopPlayingEfx();
+                _am.playCookingEfx(_am.cookingEfx.clip);
+
+            }
         }
     }
 
@@ -91,7 +103,23 @@ public class Character : MonoBehaviour
 
         _jump = Input.GetButtonDown("Jump");
         //_special = Input.GetButtonDown("Fire1");
-        Move(_horizontalMove * Time.fixedDeltaTime, _jump);
+
+        if (!isCooking)
+        {
+            Move(_horizontalMove * Time.fixedDeltaTime, _jump);
+
+        }
+        else
+        {
+            StartCoroutine(Wait());
+            
+        }
+    }
+
+    IEnumerator Wait (){
+        
+        yield return new WaitForSeconds(4f);
+        _gm.GameState = GameManager.GameStates.WIN;
     }
 
     private void Move(float move, bool jump)
@@ -126,6 +154,8 @@ public class Character : MonoBehaviour
         _suelo = false;
         _rigidbody.AddForce(new Vector2(0f, jumpForce));
         _am.playJumpEfx(_am.jumpEfx.clip);
+
+
     }
 
     private void Flip()

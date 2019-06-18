@@ -17,7 +17,7 @@ public class TruenoGenerator : MonoBehaviour
     public void Update()
     {
 
-        if (i > 150)
+        if (i > 100)
         {
             truenoNuevo = Instantiate(trueno);
             i = 0;

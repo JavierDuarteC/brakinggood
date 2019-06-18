@@ -106,6 +106,12 @@ public class GameManager : MonoBehaviour
             GameState = GameStates.LOSE;
         }
 
+        if (GameState.Equals(GameStates.WIN))
+        {
+            Tiempo = 0f;
+            Quimico = 0f;
+            SceneManager.LoadScene("Win");
+        }
         // if (_quimico > 0)
         // {
         //     healthBar.SetSize(_quimico / 10);
