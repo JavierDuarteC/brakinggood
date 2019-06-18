@@ -17,15 +17,31 @@ public class TruenoGenerator : MonoBehaviour
     public void Update()
     {
 
-        if (i > 100)
+        if (trueno.tag == "Llama")
         {
-            truenoNuevo = Instantiate(trueno);
-            i = 0;
-            // Debug.Log(nubeVoladora.rect.yMax);
-            // truenoNuevo.transform.position = new Vector3(nubeVoladora.transform.position.x-Random.Range(-7,7),nubeVoladora.transform.position.y+6, 0);
-            var randomPosition = new Vector3(Random.Range(-6f, 16f), 5.2f, 0);
-            truenoNuevo.transform.position = randomPosition;
+            if (i > 50)
+            {
+                truenoNuevo = Instantiate(trueno);
+                i = 0;
+                // Debug.Log(nubeVoladora.rect.yMax);
+                // truenoNuevo.transform.position = new Vector3(nubeVoladora.transform.position.x-Random.Range(-7,7),nubeVoladora.transform.position.y+6, 0);
+                var randomPosition = new Vector3(Random.Range(-6f, 16f), 5.2f, 0);
+                truenoNuevo.transform.position = randomPosition;
 
+            }
+        }
+        else
+        {
+            if (i > 100)
+            {
+                truenoNuevo = Instantiate(trueno);
+                i = 0;
+                // Debug.Log(nubeVoladora.rect.yMax);
+                // truenoNuevo.transform.position = new Vector3(nubeVoladora.transform.position.x-Random.Range(-7,7),nubeVoladora.transform.position.y+6, 0);
+                var randomPosition = new Vector3(Random.Range(-6f, 16f), 5.2f, 0);
+                truenoNuevo.transform.position = randomPosition;
+
+            }
         }
         i++;
 

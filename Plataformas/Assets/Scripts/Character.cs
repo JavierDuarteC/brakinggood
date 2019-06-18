@@ -93,6 +93,19 @@ public class Character : MonoBehaviour
 
             }
         }
+        else if (other.CompareTag("Llama"))
+        {
+            if (_gm.Quimico == 0)
+            {
+                Destroy(other.gameObject);
+                _gm.GameState = GameManager.GameStates.LOSE;
+            }
+            else
+            {
+                Destroy(other.gameObject);
+                _gm.Quimico-=1;
+            }
+        }
     }
 
     // Update is called once per frame

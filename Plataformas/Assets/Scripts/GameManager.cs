@@ -94,7 +94,10 @@ public class GameManager : MonoBehaviour
         //     Tiempo = 0f;
         print(_quimico);
         if (_quimico < 10)
+        {
             healthBar.SetSize(_quimico / 10);
+            healthBar.SetColor(Color.cyan);
+        }
         else if (_quimico == 10)
         {
             healthBar.SetColor(Color.green);

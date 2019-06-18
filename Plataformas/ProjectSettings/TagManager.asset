@@ -8,6 +8,7 @@ TagManager:
   - Quimico
   - Lab
   - Borde
+  - Llama
   layers:
   - Default
   - TransparentFX
