@@ -7,13 +7,15 @@ using UnityEngine.SceneManagement;
 [RequireComponent(typeof(Rigidbody2D))]
 public class Character : MonoBehaviour
 {
-    [Header("Velocidad de movimiento:")] [SerializeField]
+    [Header("Velocidad de movimiento:")]
+    [SerializeField]
     public float speed;
 
     [Range(0, .3f)] [SerializeField] private float movementSmoothing = .05f; // How much to smooth out the movement
     private bool _facingRight = true; // For determining which way the player is currently facing.
 
-    [Header("Fuerza de salto")] [Tooltip("La fuerza debe ser una magnitud grande")]
+    [Header("Fuerza de salto")]
+    [Tooltip("La fuerza debe ser una magnitud grande")]
     public float jumpForce;
 
     [SerializeField] private Transform groundCheck; // A position marking where to check if the player is grounded.
@@ -29,6 +31,8 @@ public class Character : MonoBehaviour
     private bool _jump;
     private bool _special;
 
+    private GameManager _gm;
+
 
     // Start is called before the first frame update
     void Start()
@@ -36,6 +40,7 @@ public class Character : MonoBehaviour
         _rigidbody = GetComponent<Rigidbody2D>();
         _suelo = false;
         _anim = GetComponent<Animator>();
+        _gm = GameObject.Find("GameManager").GetComponent<GameManager>();
     }
 
     private void Update()
@@ -44,29 +49,18 @@ public class Character : MonoBehaviour
         _anim.SetFloat("Speed", Mathf.Abs(_horizontalMove));
         _anim.SetBool("Grounded", _suelo);
         //_anim.SetBool("isFalling", _rigidbody.velocity.y < -0.1);
-       // _anim.SetBool("special",_special);
-//        _anim.SetBool("isDead", _vida == 0);
+        // _anim.SetBool("special",_special);
+        //        _anim.SetBool("isDead", _vida == 0);
     }
 
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Hider"))
+        if (other.CompareTag("Quimico"))
         {
-            var obj = GameObject.FindWithTag("Texto");
-            if (obj != null)
-            {
-                obj.SetActive(false);
-            }
-        }
-        else if (other.CompareTag("KillZone"))
-        {
-            var escena = SceneManager.GetActiveScene();
-            SceneManager.LoadScene(escena.name);
-        }
-        else if (other.CompareTag("WinZone"))
-        {
-            SceneManager.LoadScene("Titulo");
+            _gm.Quimico++;
+            // print("Quimicos: [" + _gm.Quimico + ']');
+            Destroy(other.gameObject);
         }
     }
 

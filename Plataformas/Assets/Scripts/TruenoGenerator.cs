@@ -25,7 +25,7 @@ public class TruenoGenerator : MonoBehaviour
             // truenoNuevo.transform.position = new Vector3(nubeVoladora.transform.position.x-Random.Range(-7,7),nubeVoladora.transform.position.y+6, 0);
             var randomPosition = new Vector3(Random.Range(-6f, 16f), 5.2f, 0);
             truenoNuevo.transform.position = randomPosition;
-            print(randomPosition.x);
+
         }
         i++;
 
