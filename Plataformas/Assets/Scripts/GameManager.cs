@@ -55,6 +55,8 @@ public class GameManager : MonoBehaviour
         set => gameState = value;
     }
 
+
+
     private void Awake()
     {
         if (instance == null)
@@ -69,9 +71,11 @@ public class GameManager : MonoBehaviour
     {
         Tiempo = tiempoInicial;
         Quimico = quimicosIni;
+
         healthBar.SetSize(0f);
-        healthBar.SetColor(Color.yellow);
+        healthBar.SetColor(Color.cyan);
         GameScene = SceneManager.GetActiveScene();
+
     }
 
     // Update is called once per frame
@@ -99,7 +103,6 @@ public class GameManager : MonoBehaviour
         else if (_quimico == 11)
         {
             healthBar.SetColor(Color.red);
-            healthBar.SetSize(_quimico / 10);
         }
         else if (_quimico == 12)
         {

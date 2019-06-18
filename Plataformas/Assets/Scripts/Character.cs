@@ -34,7 +34,7 @@ public class Character : MonoBehaviour
     private GameManager _gm;
     private SoundManager _am;
 
-    
+
 
     private bool isCooking;
 
@@ -57,7 +57,7 @@ public class Character : MonoBehaviour
         _anim.SetFloat("Speed", Mathf.Abs(_horizontalMove));
         _anim.SetBool("Grounded", _suelo);
 
-        
+
         //_anim.SetBool("isFalling", _rigidbody.velocity.y < -0.1);
         // _anim.SetBool("special",_special);
         //        _anim.SetBool("isDead", _vida == 0);
@@ -68,10 +68,17 @@ public class Character : MonoBehaviour
     {
         if (other.CompareTag("Quimico"))
         {
-            _gm.Quimico++;
-            _am.playPlusEfx(_am.plusEfx.clip);
-            // print("Quimicos: [" + _gm.Quimico + ']');
-            Destroy(other.gameObject);
+            if (_gm.Quimico == (_gm.Quimico + 2))
+            {
+                _gm.Quimico--;
+            }
+            else
+            {
+                _gm.Quimico++;
+                _am.playPlusEfx(_am.plusEfx.clip);
+                // print("Quimicos: [" + _gm.Quimico + ']');
+                Destroy(other.gameObject);
+            }
 
         }
         else if (other.CompareTag("Lab"))
@@ -112,12 +119,13 @@ public class Character : MonoBehaviour
         else
         {
             StartCoroutine(Wait());
-            
+
         }
     }
 
-    IEnumerator Wait (){
-        
+    IEnumerator Wait()
+    {
+
         yield return new WaitForSeconds(4f);
         _gm.GameState = GameManager.GameStates.WIN;
     }
