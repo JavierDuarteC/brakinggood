@@ -2466,7 +2466,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 577
+        y: 321
         width: 40
         height: 50
       alignment: 0
@@ -3024,27 +3024,6 @@ TextureImporter:
       bones: []
       spriteID: 4c894abedf17d4044b35285a1722df56
       internalID: 7767965401123653557
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sccpre.cat-french-mustache-png-685081_114
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 321
-        width: 40
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d2d3efbba70dc8149bd4a45ff99a2b4e
-      internalID: -8739440289404925063
       vertices: []
       indices: 
       edges: []

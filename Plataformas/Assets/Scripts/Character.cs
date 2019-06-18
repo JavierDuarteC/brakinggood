@@ -32,6 +32,7 @@ public class Character : MonoBehaviour
     private bool _special;
 
     private GameManager _gm;
+    private SoundManager _am;
 
 
     // Start is called before the first frame update
@@ -41,6 +42,8 @@ public class Character : MonoBehaviour
         _suelo = false;
         _anim = GetComponent<Animator>();
         _gm = GameObject.Find("GameManager").GetComponent<GameManager>();
+        _am = GameObject.Find("SoundManager").GetComponent<SoundManager>();
+        _am.playPlayingEfx(_am.playingEfx.clip);
     }
 
     private void Update()
@@ -48,6 +51,12 @@ public class Character : MonoBehaviour
         _horizontalMove = Input.GetAxisRaw("Horizontal") * speed;
         _anim.SetFloat("Speed", Mathf.Abs(_horizontalMove));
         _anim.SetBool("Grounded", _suelo);
+    
+        _anim.SetBool("IsCooking", (_gm.Quimico == 10 || _gm.Quimico == 11));
+           
+       
+
+        
         //_anim.SetBool("isFalling", _rigidbody.velocity.y < -0.1);
         // _anim.SetBool("special",_special);
         //        _anim.SetBool("isDead", _vida == 0);
@@ -59,8 +68,10 @@ public class Character : MonoBehaviour
         if (other.CompareTag("Quimico"))
         {
             _gm.Quimico++;
+            _am.playPlusEfx(_am.plusEfx.clip);
             // print("Quimicos: [" + _gm.Quimico + ']');
             Destroy(other.gameObject);
+
         }
     }
 
@@ -114,6 +125,7 @@ public class Character : MonoBehaviour
         // Add a vertical force to the player.
         _suelo = false;
         _rigidbody.AddForce(new Vector2(0f, jumpForce));
+        _am.playJumpEfx(_am.jumpEfx.clip);
     }
 
     private void Flip()

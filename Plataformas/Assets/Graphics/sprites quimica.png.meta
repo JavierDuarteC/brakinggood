@@ -5,6 +5,9 @@ TextureImporter:
   - first:
       213: -5139589500213797971
     second: sprites quimica_0
+  - first:
+      213: -4404495708523100288
+    second: sprites quimica_1
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -106,7 +109,7 @@ TextureImporter:
         width: 25
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -114,6 +117,27 @@ TextureImporter:
       bones: []
       spriteID: 4d105783382e50e41b60e409ae50b1a5
       internalID: -5139589500213797971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites quimica_1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 851
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf55e68184832c943adfacf8e3e4bd13
+      internalID: -4404495708523100288
       vertices: []
       indices: 
       edges: []

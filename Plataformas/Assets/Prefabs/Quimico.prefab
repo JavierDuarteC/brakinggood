@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7515480820458500331}
   - component: {fileID: 7515480820458500330}
   - component: {fileID: 971437772494201726}
-  - component: {fileID: 977227568}
+  - component: {fileID: 3547374835238719806}
   m_Layer: 0
   m_Name: Quimico
   m_TagString: Quimico
@@ -28,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 7515480820458500333}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 1.2798853, y: 3.1226315, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.3389, y: 1.3389, z: 1.3389}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -70,7 +70,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -5139589500213797971, guid: d8770f1f6971d6543aa1a1bb77886dc1,
+  m_Sprite: {fileID: -4404495708523100288, guid: d8770f1f6971d6543aa1a1bb77886dc1,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -95,7 +95,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
---- !u!61 &977227568
+--- !u!61 &3547374835238719806
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -108,16 +108,16 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.007089615, y: -0.030723572}
+  m_Offset: {x: -0.005835116, y: 0.0043769106}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.3125, y: 0.425}
+    oldSize: {x: 0.2875, y: 0.3875}
     newSize: {x: 0.3125, y: 0.425}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.25105286, y: 0.14612484}
+  m_Size: {x: 0.20871925, y: 0.3291437}
   m_EdgeRadius: 0
