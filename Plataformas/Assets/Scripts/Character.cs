@@ -56,6 +56,7 @@ public class Character : MonoBehaviour
         _horizontalMove = Input.GetAxisRaw("Horizontal") * speed;
         _anim.SetFloat("Speed", Mathf.Abs(_horizontalMove));
         _anim.SetBool("Grounded", _suelo);
+        _anim.SetBool("IsDancing", Input.GetKey(KeyCode.DownArrow));
 
 
         //_anim.SetBool("isFalling", _rigidbody.velocity.y < -0.1);
